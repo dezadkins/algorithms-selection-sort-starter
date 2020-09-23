@@ -1,7 +1,7 @@
 {
   "name": "selection_sort_project_solution",
   "version": "1.0.0",
-  "description": "",
+  "description": "This project contains a skeleton for you to implement Selection Sort. In the file **lib/selection_sort.js**, you should implement the Selection Sort. You can use the same `swap` function from Bubble Sort; however, try to implement it on your own, first.",
   "main": "index.js",
   "directories": {
     "lib": "lib",
@@ -15,5 +15,14 @@
   "dependencies": {
     "chai": "^4.2.0",
     "mocha": "^7.1.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dezadkins/algorithms-selection-sort-starter.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/dezadkins/algorithms-selection-sort-starter/issues"
+  },
+  "homepage": "https://github.com/dezadkins/algorithms-selection-sort-starter#readme"
 }
